@@ -2,7 +2,15 @@
 # General
 --------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap'); */
+
+@font-face { 
+  font-family: 'Josefin Sans';
+  src: url('../vendor/Josefin_Sans/JosefinSans-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 body {
   /* font-family: "Inconsolata", monospace; */
