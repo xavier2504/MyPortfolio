@@ -1,9 +1,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
 body {
-  font-family: "Inconsolata", monospace;
-  color: #0d1e2d;
+  /* font-family: "Inconsolata", monospace; */
+  /* font-family: 'Futura'; */
+  font-family: 'Josefin Sans', sans-serif;
+  /* color: #0d1e2d; */
+  color: #000000;
 }
 
 a {
@@ -101,7 +107,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 .item .item-wrap > .work-info span {
   font-size: 14px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 0.2rem;
 }
 .item .item-wrap:hover {
